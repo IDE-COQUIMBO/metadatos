@@ -1,0 +1,73 @@
+<!-- Metadata generated with CatMDEdit version 5.0 -->
+<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml/" xmlns:gts="http://www.isotc211.org/2005/gts/" xmlns:xlink="http://www.w3.org/1999/xlink/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<gmd:fileIdentifier>
+<gco:CharacterString>56e38ed2-9981-11f0-b5db-088fc3b6603e</gco:CharacterString>
+</gmd:fileIdentifier>
+<gmd:language>
+<gmd:LanguageCode codeList="./resources/codeList.xml#LanguageCode" codeListValue="spa">spa</gmd:LanguageCode>
+</gmd:language>
+<gmd:characterSet>
+<gmd:MD_CharacterSetCode codeList="./resources/codeList.xml#MD_CharacterSetCode" codeListValue="UTF-8">UTF-8</gmd:MD_CharacterSetCode>
+</gmd:characterSet>
+<gmd:parentIdentifier gco:nilReason="missing"/>
+<gmd:hierarchyLevel gco:nilReason="missing"/>
+<gmd:hierarchyLevelName gco:nilReason="missing"/>
+<gmd:contact>
+<gmd:CI_ResponsibleParty>
+<gmd:individualName>
+<gco:CharacterString>RODRIGO OSORIO</gco:CharacterString>
+</gmd:individualName>
+<gmd:organisationName>
+<gco:CharacterString>Subsecretaría de Desarrollo Regional y Administrativo</gco:CharacterString>
+</gmd:organisationName>
+<gmd:positionName gco:nilReason="missing"/>
+<gmd:contactInfo>
+<gmd:CI_Contact>
+<gmd:phone>
+<gmd:CI_Telephone>
+<gmd:voice>
+<gco:CharacterString>+562 2676 3030</gco:CharacterString>
+</gmd:voice>
+</gmd:CI_Telephone>
+</gmd:phone>
+<gmd:address>
+<gmd:CI_Address>
+<gmd:electronicMailAddress>
+<gco:CharacterString>rodrigo.osorio@subdere.gov.cl</gco:CharacterString>
+</gmd:electronicMailAddress>
+</gmd:CI_Address>
+</gmd:address>
+</gmd:CI_Contact>
+</gmd:contactInfo>
+<gmd:role gco:nilReason="missing"/>
+</gmd:CI_ResponsibleParty>
+</gmd:contact>
+<gmd:dateStamp>
+<gco:Date>2023-09-29</gco:Date>
+</gmd:dateStamp>
+<gmd:metadataStandardName>
+<gco:CharacterString>ISO 19115</gco:CharacterString>
+</gmd:metadataStandardName>
+<gmd:metadataStandardVersion>
+<gco:CharacterString>ISO19115:2003/Cor 1 2006</gco:CharacterString>
+</gmd:metadataStandardVersion>
+<gmd:identificationInfo>
+<gmd:MD_DataIdentification>
+<gmd:citation>
+<gmd:CI_Citation>
+<gmd:title>
+<gco:CharacterString>División Política Administrativa 2023 Comuna Coquimbo</gco:CharacterString>
+</gmd:title>
+<gmd:date gco:nilReason="missing"/>
+</gmd:CI_Citation>
+</gmd:citation>
+<gmd:abstract>
+<gco:CharacterString>Los Límites de la División Política Administrativa (DPA) 2023 de Chile, es un archivo shapefile de polígonos que se enmarca en el Trabajo del Grupo de Trabajo DPA de la IDE Chile, donde participan las siguientes instituciones: Subsecretaría de Desarrollo Regional y Administrativo (SUBDERE), Instituto Geográfico Militar (IGM), la Dirección Nacional de Fronteras y Límites del Estado (DIFROL) e Instituto Nacional de Estadísticas (INE); este trabajo es el resultado de la coordinación de las instituciones participantes para obtener una capa de la División Política del país actualizada, y que resulta de la unión de las capas de límites internacionales de DIFROL, los límites interiores del país de SUBDERE y línea de costa e islas de IGM para todo el país, su sistema de referencia es SIRGAS Chile y su escala de representación es 1:50.000. Cabe mencionar que esta capa no incluye el Territorio Antártico Chileno. Esta cartografía cuenta con la aprobación para su circulación mediante, resolución exenta de DIFROL. De acuerdo a las disposiciones contenidas en el DFL Nº5 de 1967, DS Nº 566 de 1970 y DFL Nº83 de 1979 del Ministerio de Relaciones Exteriores, toda publicación cuya circulación sea autorizada por esta Dirección Nacional, deberá llevar la siguiente leyenda: &amp;amp;amp;quot;Autorizada su circulación por Resolución Nº50 del 2019 de la Dirección Nacional de Fronteras y Límites del Estado&amp;amp;amp;quot;. La edición y circulación de mapas, cartas geográficas u otros impresos y documentos que se refieran o relacionen con los límites y fronteras de Chile, no comprometen, en modo alguno, al Estado de Chile, de acuerdo con el Art. 2º, letra g) del DFL Nº83 de 1979 del Ministerio de Relaciones Exteriores. Cabe considerar que aunque esta cartografía cuenta con la aprobación para la circulación de DIFROL, las publicaciones y productos derivados de ella deben ser revisados y validados de igual manera por DIFROL. Para desplegar esta capa, el usuario debe tener desplegados todos los shapefiles referidos al límite internacional de Chile. La cartografía se entrega separada en 3 shapefiles: comunas, provincias y regiones. No se considera el polígono correspondiente a la comuna Antártica en la región de Magallanes y de la Antártica Chilena.</gco:CharacterString>
+</gmd:abstract>
+<gmd:language gco:nilReason="missing"/>
+<gmd:characterSet gco:nilReason="missing"/>
+<gmd:topicCategory gco:nilReason="missing"/>
+<gmd:extent gco:nilReason="missing"/>
+</gmd:MD_DataIdentification>
+</gmd:identificationInfo>
+</gmd:MD_Metadata>
