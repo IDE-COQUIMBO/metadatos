@@ -1,0 +1,77 @@
+<!-- Metadata generated with CatMDEdit version 5.0 -->
+<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml/" xmlns:gts="http://www.isotc211.org/2005/gts/" xmlns:xlink="http://www.w3.org/1999/xlink/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<gmd:fileIdentifier>
+<gco:CharacterString>81fa6e41-98b9-11f0-8a6f-088fc3b6603e</gco:CharacterString>
+</gmd:fileIdentifier>
+<gmd:language>
+<gmd:LanguageCode codeList="./resources/codeList.xml#LanguageCode" codeListValue="spa">spa</gmd:LanguageCode>
+</gmd:language>
+<gmd:characterSet>
+<gmd:MD_CharacterSetCode codeList="./resources/codeList.xml#MD_CharacterSetCode" codeListValue="UTF-8">UTF-8</gmd:MD_CharacterSetCode>
+</gmd:characterSet>
+<gmd:parentIdentifier gco:nilReason="missing"/>
+<gmd:hierarchyLevel gco:nilReason="missing"/>
+<gmd:hierarchyLevelName gco:nilReason="missing"/>
+<gmd:contact>
+<gmd:CI_ResponsibleParty>
+<gmd:individualName gco:nilReason="missing"/>
+<gmd:organisationName>
+<gco:CharacterString>Servicio Hidrográfico y Oceanográfico de la Armada de Chile</gco:CharacterString>
+</gmd:organisationName>
+<gmd:positionName gco:nilReason="missing"/>
+<gmd:contactInfo>
+<gmd:CI_Contact>
+<gmd:address>
+<gmd:CI_Address>
+<gmd:country>
+<gco:CharacterString>Chile</gco:CharacterString>
+</gmd:country>
+</gmd:CI_Address>
+</gmd:address>
+</gmd:CI_Contact>
+</gmd:contactInfo>
+<gmd:role gco:nilReason="missing"/>
+</gmd:CI_ResponsibleParty>
+</gmd:contact>
+<gmd:dateStamp>
+<gco:Date>2021-07-21</gco:Date>
+</gmd:dateStamp>
+<gmd:metadataStandardName>
+<gco:CharacterString>ISO 19115</gco:CharacterString>
+</gmd:metadataStandardName>
+<gmd:metadataStandardVersion>
+<gco:CharacterString>ISO19115:2003/Cor 1 2006</gco:CharacterString>
+</gmd:metadataStandardVersion>
+<gmd:referenceSystemInfo>
+<gmd:MD_ReferenceSystem>
+<gmd:referenceSystemIdentifier>
+<gmd:RS_Identifier>
+<gmd:code>
+<gco:CharacterString>EPSG:32719</gco:CharacterString>
+</gmd:code>
+</gmd:RS_Identifier>
+</gmd:referenceSystemIdentifier>
+</gmd:MD_ReferenceSystem>
+</gmd:referenceSystemInfo>
+<gmd:identificationInfo>
+<gmd:MD_DataIdentification>
+<gmd:citation>
+<gmd:CI_Citation>
+<gmd:title>
+<gco:CharacterString>Carta Inundación por Tsunami Coquimbo - La Serena</gco:CharacterString>
+</gmd:title>
+<gmd:date gco:nilReason="missing"/>
+</gmd:CI_Citation>
+</gmd:citation>
+<gmd:abstract>
+<gco:CharacterString>Capa vectorial descargable que representa la profundidad máxima de inundación por tsunami para las ciudades de Coquimbo y Serena, comunas de Coquimbo y Serena, Provincia de Elqui, Región de Coquimbo. La capa vectorial es parte de la carta de inundación para las ciudades de Coquimbo y Serena, y se elaboró mediante simulación numérica, la cual fue alimentada con la ultima información topográfica y batimétrica disponible.</gco:CharacterString>
+</gmd:abstract>
+<gmd:language>
+<gmd:LanguageCode codeList="./resources/codeList.xml#LanguageCode" codeListValue="spa">spa</gmd:LanguageCode>
+</gmd:language>
+<gmd:characterSet gco:nilReason="missing"/>
+<gmd:topicCategory gco:nilReason="missing"/>
+<gmd:extent gco:nilReason="missing"/>
+</gmd:MD_DataIdentification>
+</gmd:identificationInfo>
+</gmd:MD_Metadata>
